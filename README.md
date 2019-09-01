@@ -18,8 +18,21 @@ $ source ~/.profile
 
 Requirements
 
+
 The NodeJS modules required are pretty much just `underscore`, `async`, and `express`.
 
-The web application requires angular and font-awesome to render correctly. To make the deployment of this easy, one of the other requirements is bower.
+The web application requires `angular` and `font-awesome` to render correctly. To make the deployment of this easy, one of the other requirements is `bower`.
 
 If you do not have bower installed already, you can install it globally by running: sudo npm install bower -g.
+
+
+
+`npm install underscore`
+`npm install async`
+`npm install express`
+
+`npm install angular`
+`npm install font-awesome`
+
+
+`npm install bower`
