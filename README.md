@@ -28,10 +28,14 @@ If you do not have bower installed already, you can install it globally by runni
 
 
 `npm install underscore`
+
 `npm install async`
+
 `npm install express`
 
+
 `npm install angular`
+
 `npm install font-awesome`
 
 
