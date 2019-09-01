@@ -3,7 +3,7 @@ does what the title says
 
 
 
-### Install node (optional)
+### Install node js
 
 ```
 $ wget https://nodejs.org/dist/v10.16.3/node-v10.16.3-linux-armv6l.tar.xz
@@ -16,3 +16,10 @@ $ echo 'export PATH=$NODEJS_HOME/bin:$PATH' >> ~/.profile
 $ source ~/.profile
 ```
 
+Requirements
+
+The NodeJS modules required are pretty much just `underscore`, `async`, and `express`.
+
+The web application requires angular and font-awesome to render correctly. To make the deployment of this easy, one of the other requirements is bower.
+
+If you do not have bower installed already, you can install it globally by running: sudo npm install bower -g.
